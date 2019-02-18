@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47222" started-at="2019-02-18T14:35:52Z" finished-at="2019-02-18T14:36:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47222" started-at="2019-02-18T14:35:52Z" finished-at="2019-02-18T14:36:39Z">
+      <class name="com.TestCases.Tc_01_ValidateSigin_Page">
+        <test-method status="PASS" signature="TestSignIn()[pri:0, instance:com.TestCases.Tc_01_ValidateSigin_Page@343f4d3d]" name="TestSignIn" duration-ms="45487" started-at="2019-02-18T14:35:53Z" finished-at="2019-02-18T14:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSignIn -->
+      </class> <!-- com.TestCases.Tc_01_ValidateSigin_Page -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
